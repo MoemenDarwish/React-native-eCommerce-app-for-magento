@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "122741372128",
+    "firebase_url": "https://ecommeriststoreapp.firebaseio.com",
+    "project_id": "ecommeriststoreapp",
+    "storage_bucket": "ecommeriststoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122741372128:android:f4991b66570c209b",
+        "android_client_info": {
+          "package_name": "com.ecommeriststore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122741372128-p9ff0vlocba19anucsg7cmnhn5t9mt62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecommeriststore",
+            "certificate_hash": "09b03b47d77cfb481726bb9a13b2c3a48e61163a"
+          }
+        },
+        {
+          "client_id": "122741372128-c45l826n3itmn4e65o7b296c6ih7k3lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb5acWuGj8ut1RCRPkYdSIzkFh9vTIFvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122741372128-c45l826n3itmn4e65o7b296c6ih7k3lm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122741372128-dffn0k4b4c9lvmljjdl8bnqco970gk59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ecommerist.EcommeristStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
